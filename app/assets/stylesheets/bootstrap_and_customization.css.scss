@@ -7,14 +7,9 @@ $navbar-default-bg:                          #292929;
 $navbar-default-brand-color:      #c0392b;
 $brand-primary:                                   #c0392b;
 $jumbotron-bg:                                         white;
-
 //@import "bootstrap-sprockets"
 @import 'bootstrap';
 
-.nav.navbar-nav.navbar-right li a {
-    color: #f2f2f2;
-    
-}
 
 .center {
      text-align: center;
